@@ -3,6 +3,7 @@ Identifies handwritten characters using a trained Neural Network.
 
 
 REFERENCES
+
 users.eecs.northwestern.edu/~mvb541/EECS349/Report.pdf
 
 https://github.com/githubharald/SimpleHTR
