@@ -1,3 +1,10 @@
+Video Tutorial on working and explanation of the system
+
+
+https://youtu.be/YfDMdMnvaQ4
+
+
+
 # Handwritten_Character_Recognition
 Identifies handwritten characters using a trained Neural Network.
 
